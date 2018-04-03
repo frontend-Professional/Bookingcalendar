@@ -2,7 +2,8 @@
 
 A responsive customizable React booking calendar.
 
-
+## Image
+![image](https://github.com/frontend-Professional/Bookingcalendar/blob/master/preview.png?raw=true)
 ## Installation
 
 ```bash
